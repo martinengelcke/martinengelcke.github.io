@@ -2,9 +2,8 @@
 layout: single
 permalink: /
 author_profile: true
+title: About
 ---
-
-Hi there!
 
 I am a research scientist at [Google DeepMind](https://deepmind.google). My goal is to build intelligent agents and robots that can act in virtual and physical environments.
 
