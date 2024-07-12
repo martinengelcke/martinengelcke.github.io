@@ -42,3 +42,7 @@ quadruped locomotion
     [14](https://arxiv.org/abs/2205.01179)
 ],
 and path planning for robot arms [[15](https://arxiv.org/abs/2210.11779)].
+
+## Service
+
+I have served as a conference reviewer for CVPR, ICRA, IROS, and RSS and as a journal reviewer for IJCV and RA-L.
