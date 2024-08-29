@@ -43,6 +43,8 @@ quadruped locomotion
 ],
 and path planning for robot arms [[15](https://arxiv.org/abs/2210.11779)].
 
+The full list of publications can be found [here](https://martinengelcke.github.io/publications/).
+
 ## Service
 
 I have served as a conference reviewer for CVPR, ICRA, IROS, and RSS and as a journal reviewer for IJCV and RA-L.
