@@ -43,7 +43,7 @@ quadruped locomotion
 ],
 and path planning for robot arms [[15](https://arxiv.org/abs/2210.11779)].
 
-The full list of publications can be found [here](https://martinengelcke.github.io/publications/).
+The full list of publications can be found [here](https://martinengelcke.github.io/publications/). Talks can be found [here](https://martinengelcke.github.io/talks/).
 
 ## Service
 
