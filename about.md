@@ -47,4 +47,4 @@ The full list of publications can be found [here](https://martinengelcke.github.
 
 ## Service
 
-I have served as a conference reviewer for CVPR, ICRA, IROS, and RSS and as a journal reviewer for IJCV and RA-L.
+I have served as a conference reviewer for CVPR, NeurIPS, ICRA, IROS, and RSS and as a journal reviewer for IJCV and RA-L.
