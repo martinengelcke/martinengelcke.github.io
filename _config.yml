@@ -27,7 +27,7 @@ url: "https://martinengelcke.github.io"
 author:
   name             : "Martin Engelcke"
   avatar           : "/images/profile.png"
-  bio              : "Research Scientist at Google DeepMind"
+  bio              : "Senior Research Scientist<br>at Google DeepMind"
   location         : "London, UK"
   links:
     - label: "Google Scholar"
