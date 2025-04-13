@@ -5,6 +5,7 @@ author_profile: true
 title: Publications
 ---
 
+- **Can foundation models actively gather information in interactive environments to test hypotheses?**; Ke, Sawyer, Soyer, Engelcke, Reichert, Hudson, Reid, Lerchner, Jimenez Rezende, Lillicrap, Mozer, Wang; arXiv preprint arXiv:2412.06438; 2024.
 - **Scaling Instructable Agents Across Many Simulated Worlds**; Abi Raad, Ahuja, Barros, Besse, Bolt, Bolton, Brownfield, Buttimore, Cant, Chakera, et al.; arXiv preprint arXiv:2404.10179; 2024.
 - **VAE-Loco: Versatile Quadruped Locomotion by Learning a Disentangled Gait Representation**; Mitchell, Merkt, Geisert, Gangapurwala, Engelcke, Parker Jones, Havoutis, Posner; IEEE Transactions on Robotics (T-RO); 2023.
 - **Reaching Through Latent Space: From Joint Statistics to Path Planning in Manipulation**; Hung, Zhong, Goodwin, Parker Jones, Engelcke, Havoutis, Posner; IEEE Robotics and Automation Letters (RA-L); 2022.
