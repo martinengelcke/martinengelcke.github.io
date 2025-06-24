@@ -34,8 +34,10 @@ quadruped locomotion
 [13](https://arxiv.org/abs/2205.01179)],
 path planning for robot arms
 [[14](https://arxiv.org/abs/2210.11779)],
-and agents that follow language instructions in video games
-[[15](https://arxiv.org/abs/2404.10179)].
+agents that follow language instructions in video games
+[[15](https://arxiv.org/abs/2404.10179)],
+and active information gathering with foundation models
+[[16](https://arxiv.org/abs/2412.06438)].
 
 The full list of publications can be found [here](https://martinengelcke.github.io/publications/).
 Talks can be found [here](https://martinengelcke.github.io/talks/).
